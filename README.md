@@ -44,3 +44,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 Special thanks to [OpenCV](https://opencv.org/) and [TensorFlow](https://www.tensorflow.org/) for providing the tools and libraries necessary for this project.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/669f7f6f-74a0-499e-b924-cac93ca0a16e
+
+
